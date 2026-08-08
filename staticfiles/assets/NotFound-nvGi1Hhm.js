@@ -1,1 +1,0 @@
-import{_ as t,c as n,a as r,b as s,w as a,r as l,o as c,y as d}from"./index-CT_dC7-2.js";const u={};function _(f,e){const o=l("router-link");return c(),n("div",null,[e[1]||(e[1]=r("h1",null,"404 – Page Not Found",-1)),s(o,{to:"/"},{default:a(()=>[...e[0]||(e[0]=[d("Go Home",-1)])]),_:1})])}const m=t(u,[["render",_]]);export{m as default};
